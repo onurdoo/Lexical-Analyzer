@@ -1,0 +1,7 @@
+if (some_condition) {
+printf("merhaba");
+counter++; (* increment *)
+variable_one := 33-8*60/40;
+variable_one--;
+array[5] := 50;
+}

@@ -1,0 +1,13 @@
+Keyword(if)
+LeftPar
+Identifier(some_condition)
+RightPar
+LeftCurlyBracket
+Identifier(variable_one)
+Operator(:=)
+IntConst(222)
+EndOfLine
+Identifier(counter)
+Operator(++)
+EndOfLine
+RightCurlyBracket
